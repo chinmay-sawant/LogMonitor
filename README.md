@@ -33,5 +33,5 @@ DB-Service
 =========
 
 - Added new method to get errors by id
-- Added HAETOS support to above method
+- Added HAETOS to above method
 
