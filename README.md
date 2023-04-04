@@ -3,6 +3,8 @@
 Docker based log monitor for PostGres
 ===============================================
 
+Documentation - https://github.com/chinmay-sawant/LogMonitor/blob/main/DrawIO/Logmonitor.docx
+
 1. Run Command for Docker Container with rabbitmq
 
 docker run -d --name rabbitmq -p 5672:5672 -p 5673:5673 -p 15672:15672 rabbitmq:3.11.9-management
