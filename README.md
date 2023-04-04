@@ -35,3 +35,4 @@ DB-Service
 - Added new method to get errors by id
 - Added HAETOS to above method
 
+![errorsPage](https://user-images.githubusercontent.com/28671172/229720039-221179b6-e03b-4461-838b-30b19cf621b7.png)
