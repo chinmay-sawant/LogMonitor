@@ -1,0 +1,7 @@
+com\in\logMonitor\models\LogMonitorDataDB.class
+com\in\logMonitor\LogMonitorDbServiceApplication.class
+com\in\logMonitor\controllers\LogMonitorController.class
+com\in\logMonitor\services\LogMonitorDBService.class
+com\in\logMonitor\repository\LogMonitorDBRepository.class
+com\in\logMonitor\models\LogMonitorData.class
+com\in\logMonitor\ServletInitializer.class

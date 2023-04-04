@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "logmonitor",
+      "type": "com.in.logMonitor.config.PropConfig",
+      "sourceType": "com.in.logMonitor.config.PropConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "logmonitor.linematcher",
+      "type": "java.lang.String",
+      "sourceType": "com.in.logMonitor.config.PropConfig"
+    },
+    {
+      "name": "logmonitor.logpath",
+      "type": "java.lang.String",
+      "sourceType": "com.in.logMonitor.config.PropConfig"
+    },
+    {
+      "name": "logmonitor.projectname",
+      "type": "java.lang.String",
+      "sourceType": "com.in.logMonitor.config.PropConfig"
+    },
+    {
+      "name": "logmonitor.server-type",
+      "type": "java.lang.String",
+      "sourceType": "com.in.logMonitor.config.PropConfig"
+    }
+  ],
+  "hints": []
+}
