@@ -29,9 +29,9 @@ DB-Service
 - API service which will read messages from DB
 
 
-=============
 22-March-2023
-=============
+=========
+
 - Added new method to get errors by id
 - Added HAETOS support to above method
 
